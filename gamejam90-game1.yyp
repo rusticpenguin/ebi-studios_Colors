@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "1773ef7d-d699-4e70-9e4d-b8dede7800a2",
+            "Value": {
+                "id": "6fc49f4f-3f21-456a-9a56-70936d5946be",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_emptymask\/spr_emptymask.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "17801693-746b-4356-81ba-35e52696bf64",
             "Value": {
                 "id": "aa310e6d-d0b4-4fbf-80ef-c4d11a88b5da",
@@ -856,6 +875,25 @@
             }
         },
         {
+            "Key": "cae2e574-a6ff-44e2-beeb-8e65c99c538c",
+            "Value": {
+                "id": "174c7789-c26a-4a01-a09f-d8041b8cc820",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/pSolid\/pSolid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d86d59f7-86e2-417d-8629-c9a197cb5eae",
@@ -1160,6 +1198,25 @@
             }
         },
         {
+            "Key": "f8edc601-27e1-4ac2-8618-846d8c47d664",
+            "Value": {
+                "id": "63e5a549-5594-4643-a06d-eee8666f8ad7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/colors\/colors.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "fbb76c24-9e0a-411b-b160-77c81f2f10f1",
             "Value": {
                 "id": "8d0dcc5a-be85-466e-b0f4-65b679c65761",
@@ -1184,6 +1241,7 @@
         "13fad0e0-bfd2-474d-a6dc-59307ef6cfe0",
         "17801693-746b-4356-81ba-35e52696bf64",
         "238936e8-cacd-4844-b4b6-9e4e916be3ec",
+        "f8edc601-27e1-4ac2-8618-846d8c47d664",
         "66b4aa42-38b7-46a7-85a8-a7cac47b3cfd",
         "b743a0eb-a068-4cdf-b4c3-e7e2a18d373b",
         "5e7e4c71-3102-43eb-ba3e-2761f910031c"
