@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "42fb57dc-ede7-4960-986f-cf549cce793c",
+            "Value": {
+                "id": "82ffdec8-eee7-4f77-9d6b-f57e3505e330",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_cutscene3\/rm_cutscene3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "51bbacaf-0c32-4ac5-ad4b-723c8adc8ac8",
             "Value": {
                 "id": "faae5c1f-ba02-430c-8036-a809a891474a",
@@ -571,6 +590,25 @@
             }
         },
         {
+            "Key": "80ca60f2-795d-4fc0-83a2-45e240952966",
+            "Value": {
+                "id": "f9461ff2-efdd-43c8-99d2-ae433ee9840b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_cutscene4\/rm_cutscene4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "86477454-4d29-4dcb-bda2-76055c7f8f09",
             "Value": {
                 "id": "cdc4bda3-d9d2-4e70-ae1b-a31b3dd98a07",
@@ -799,6 +837,25 @@
             }
         },
         {
+            "Key": "c748407e-9285-4296-b2fe-319f3521366c",
+            "Value": {
+                "id": "deaa1471-d262-4c81-bad2-44b9488e0eb2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_cutscene2\/rm_cutscene2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "d86d59f7-86e2-417d-8629-c9a197cb5eae",
@@ -932,6 +989,25 @@
             }
         },
         {
+            "Key": "e6459fee-4682-4e61-a047-19545c4260e7",
+            "Value": {
+                "id": "5518b48b-a8b3-4500-b402-c220ad8f5ade",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_cutscene5\/rm_cutscene5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e9ab24c7-dba4-47a2-af1d-7029054947ca",
             "Value": {
                 "id": "6bc4fac0-ec76-4763-b36c-ec140d4ff073",
@@ -1027,6 +1103,25 @@
             }
         },
         {
+            "Key": "f2a2493b-1251-443f-b9ca-65464d1620d9",
+            "Value": {
+                "id": "ea10db75-1861-4e92-8010-22332e5bc180",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_cutscene6\/rm_cutscene6.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "63b3702f-c3d5-4a42-8556-1b48c17f9dd5",
@@ -1079,7 +1174,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/start_menu\/start_menu.yy",
+                "resourcePath": "rooms\/rm_start_menu\/rm_start_menu.yy",
                 "resourceType": "GMRoom"
             }
         }
