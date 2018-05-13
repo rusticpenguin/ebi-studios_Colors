@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "4ada3dcc-f056-486d-ada3-2824e759be54",
+            "Value": {
+                "id": "48a8e7b2-d56a-405b-9b84-26a65f2af645",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_p2\/obj_p2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54a91860-bf51-4a0b-a76b-aea54b658b3b",
             "Value": {
                 "id": "676b96c8-7d21-4455-9103-e9efd2f5d543",
@@ -264,6 +283,25 @@
                 ],
                 "resourcePath": "views\/54a91860-bf51-4a0b-a76b-aea54b658b3b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5bc30b8b-9f36-4746-9ecb-d58f244dff90",
+            "Value": {
+                "id": "3c0aa3c7-4975-4456-a450-d161911ca63d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_MPH\/obj_MPH.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -682,6 +720,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d2b37465-f06a-4ad3-b2a3-4ca8e64d8380",
+            "Value": {
+                "id": "4183c8c3-fc43-4ede-a16b-6739439d61a0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_p2\/spr_p2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

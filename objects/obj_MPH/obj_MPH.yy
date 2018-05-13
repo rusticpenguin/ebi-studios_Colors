@@ -1,41 +1,41 @@
 {
-    "id": "667a77a9-1fd4-474b-aa52-beb30478e41f",
+    "id": "5bc30b8b-9f36-4746-9ecb-d58f244dff90",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_MPH",
     "eventList": [
         {
-            "id": "8832ee89-4391-47b6-8cbe-9d658346651a",
+            "id": "71c7ef2f-76b2-4882-9f0f-2daefab33ba6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "667a77a9-1fd4-474b-aa52-beb30478e41f"
+            "m_owner": "5bc30b8b-9f36-4746-9ecb-d58f244dff90"
         },
         {
-            "id": "495f2e75-5f01-417a-9ec5-7fed17daef84",
+            "id": "a06a2178-4bb4-4616-8208-7e2b2a4b2744",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "667a77a9-1fd4-474b-aa52-beb30478e41f"
+            "m_owner": "5bc30b8b-9f36-4746-9ecb-d58f244dff90"
         },
         {
-            "id": "0b860394-5f98-4d73-a3c1-f685d3e6b2e6",
+            "id": "5da5a029-835d-4ed4-9877-a75360927986",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "5bc30b8b-9f36-4746-9ecb-d58f244dff90",
+            "collisionObjectId": "4ada3dcc-f056-486d-ada3-2824e759be54",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "667a77a9-1fd4-474b-aa52-beb30478e41f"
+            "m_owner": "5bc30b8b-9f36-4746-9ecb-d58f244dff90"
         }
     ],
-    "maskSpriteId": "b4a72cb6-2acb-49fc-ab7b-542763631f97",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -51,8 +51,23 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "bda6fc58-aab7-4d5a-b876-4410c3d992c3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": ".017453293519943295769236907684886",
+            "varName": "RADIAN",
+            "varType": 0
+        }
+    ],
     "solid": false,
-    "spriteId": "6a3c40bc-5a30-48ec-9bb1-cca05f99b662",
+    "spriteId": "e9ab24c7-dba4-47a2-af1d-7029054947ca",
     "visible": true
 }
