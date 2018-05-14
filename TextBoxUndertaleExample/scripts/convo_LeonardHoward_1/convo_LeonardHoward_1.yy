@@ -1,8 +1,8 @@
 {
-    "id": "1df3361c-9281-467a-b45a-f1d32debd9b8",
+    "id": "dac862a2-1a10-46cc-b7b8-91630af9f2e7",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script8",
+    "name": "convo_LeonardHoward_1",
     "IsCompatibility": false,
     "IsDnD": false
 }
