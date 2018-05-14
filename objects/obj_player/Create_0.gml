@@ -15,9 +15,3 @@ image_alpha = 1;
 audio_em = audio_emitter_create();
 
 
-
-
-
-
-// Added by Michael  *********
-hsp_carry = 0;

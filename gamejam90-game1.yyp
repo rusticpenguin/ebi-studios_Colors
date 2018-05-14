@@ -267,25 +267,6 @@
             }
         },
         {
-            "Key": "4ada3dcc-f056-486d-ada3-2824e759be54",
-            "Value": {
-                "id": "48a8e7b2-d56a-405b-9b84-26a65f2af645",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_p2\/obj_p2.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "54a91860-bf51-4a0b-a76b-aea54b658b3b",
             "Value": {
                 "id": "676b96c8-7d21-4455-9103-e9efd2f5d543",
@@ -359,25 +340,6 @@
                 ],
                 "resourcePath": "rooms\/rm_test\/rm_test.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "65ddf969-74c0-4478-9536-28b9cb5f3cf9",
-            "Value": {
-                "id": "b308be41-d6e6-4ceb-bae4-35fa9b5cb595",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/v_platform\/v_platform.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -758,25 +720,6 @@
                 ],
                 "resourcePath": "sprites\/spr_p2\/spr_p2.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "daf3bdf4-2382-4a8c-945e-e56ff5825707",
-            "Value": {
-                "id": "38b2a5f4-9e16-496c-bd62-24b05a5ce34d",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/H_p\/H_p.yy",
-                "resourceType": "GMObject"
             }
         },
         {
