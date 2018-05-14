@@ -2,9 +2,9 @@ hsp = dir * movespeed;
 vsp += grav; 
 
 //Horizontal Collision 
-if (place_meeting(x+hsp,y,obj_wall))
+if (place_meeting(x+hsp,y,Solid))
 {
-	while(!place_meeting(x+sign(hsp),y,obj_wall))
+	while(!place_meeting(x+sign(hsp),y,Solid))
 	{
 		x += sign (hsp);
 	}
@@ -15,9 +15,9 @@ if (place_meeting(x+hsp,y,obj_wall))
 x += hsp;
 
 //Vertical Collision 
-if (place_meeting(x,y+vsp,obj_wall))
+if (place_meeting(x,y+vsp,Solid))
 {
-	while(!place_meeting(x,y+sign(vsp),obj_wall))
+	while(!place_meeting(x,y+sign(vsp),Solid))
 	{
 		y += sign (vsp);
 	}
@@ -28,6 +28,12 @@ y += vsp;
 //Enemy Collision 
 if (place_meeting(x,y,obj_player))
 {
-	if (obj_player.y < y-16)
+	//If you want player to bounce off of the enemy
+	//if (obj_player.y < y-16)
 	
+	//{
+		//with (obj_player) vsp = -jumpspeed;
+		//instance_destroy();
+	//}
+	game_restart();
 }
