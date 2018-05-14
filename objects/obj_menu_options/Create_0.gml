@@ -4,5 +4,6 @@ menu[0] = "Fullscreen";
 menu[1] = "Credits";
 menu[2] = "Back";
 
-space = 64;
+space = 48;
 mpos = 0;
+audio_em = audio_emitter_create();

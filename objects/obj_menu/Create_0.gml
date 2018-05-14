@@ -6,3 +6,4 @@ menu[2] = "Quit";
 
 space = 48;
 mpos = 0;
+audio_em = audio_emitter_create();

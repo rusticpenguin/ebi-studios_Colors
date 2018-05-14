@@ -1,4 +1,5 @@
 /// @description Initialize the player object
+death = 0;
 get_input();
 global.currentcolor = "Gray";
 // Order is gray, red, green, blue
@@ -20,7 +21,7 @@ state = entrance_state();
 
 // Create an audio emitter
 audio_em = audio_emitter_create();
-
+audio_em2 = audio_emitter_create();
 
 
 

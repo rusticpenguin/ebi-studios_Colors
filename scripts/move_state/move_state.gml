@@ -1,4 +1,5 @@
 ///move_state()
+
 if (!place_meeting(x, y+1, Solid)){
 	vspd += grav;
 	
@@ -19,7 +20,8 @@ if (!place_meeting(x, y+1, Solid)){
 	// Jumping Code
 	if (jump){
 		vspd = -8;
-		//audio_play_sound(snd_jump, 5, false);
+	    audio_emitter_gain(audio_em2, .7);
+		audio_play_sound_on(audio_em2, snd_jump, false, 6);
 	}
 	
 	// Player is on the ground
@@ -47,9 +49,19 @@ if (hspd != 0) {
  
 // Play the landing sound
 if (place_meeting(x, y+vspd+1, Solid) && vspd > 0) {
-   //audio_emitter_pitch(audio_em, random_range(.8, 1.2));
-   //audio_emitter_gain(audio_em, .2);
-   //audio_play_sound_on(audio_em, snd_step, false, 6);
+   audio_emitter_pitch(audio_em, random_range(1, 1.6));
+   audio_emitter_gain(audio_em, .2);
+   audio_play_sound_on(audio_em, snd_step, false, 6);
+}
+
+if (place_meeting(x,y,obj_enemy)) && death = 0{
+	death = 1;
+	scr_death();
+}
+
+if death = 1{
+	hspd = 0;
+	vspd = 0;
 }
 
 move(Solid);

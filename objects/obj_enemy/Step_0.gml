@@ -26,14 +26,3 @@ if (place_meeting(x,y+vsp,Solid))
 y += vsp;
 
 //Enemy Collision 
-if (place_meeting(x,y,obj_player))
-{
-	//If you want player to bounce off of the enemy
-	//if (obj_player.y < y-16)
-	
-	//{
-		//with (obj_player) vsp = -jumpspeed;
-		//instance_destroy();
-	//}
-	 scr_death();
-}

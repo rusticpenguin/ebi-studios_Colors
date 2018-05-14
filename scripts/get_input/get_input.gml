@@ -1,3 +1,4 @@
+if death = 0 {
 ///get_input
 right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
@@ -23,4 +24,7 @@ if (gamepad_is_connected(gp_id)) {
    dash = gamepad_button_check_pressed(gp_ip, gp_face3);
    dash_release = gamepad_button_check_released(gp_ip, gp_face4);
 
+}
+} else {
+	
 }

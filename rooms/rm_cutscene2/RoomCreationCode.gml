@@ -1,1 +1,1 @@
-global.cspd = 5;
+global.cspd = 0.66;
