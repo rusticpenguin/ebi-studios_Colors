@@ -11,6 +11,12 @@ grav = 0.3;
 image_alpha = 1; 
 state = entrance_state();
 
+if (global.checkpointR == room)
+{
+x = global.checkpointx;
+y = global.checkpointy;
+}
+
 // Create an audio emitter
 audio_em = audio_emitter_create();
 
