@@ -7,6 +7,8 @@ hspd = dir * movespeed;
 
 // HorizontalCollision
 
+
+
 if (place_meeting(x+sign(hspd),y,Solid))
 {
 	

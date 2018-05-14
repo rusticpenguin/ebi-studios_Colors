@@ -248,6 +248,25 @@
             }
         },
         {
+            "Key": "449b6833-365b-4a19-b95b-d3037ccc01ca",
+            "Value": {
+                "id": "93532acb-0965-4d82-8503-9c7d8147302a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Supersolid\/Supersolid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4ada3dcc-f056-486d-ada3-2824e759be54",
             "Value": {
                 "id": "48a8e7b2-d56a-405b-9b84-26a65f2af645",

@@ -1,5 +1,5 @@
 ///move_state()
-if (!place_meeting(x, y+1, Solid)){
+if (!place_meeting(x, y+1, Solid)) && (!place_meeting(x, y+1, obj_MPH)){
 	vspd += grav;
 	
 	// Player is in the air
@@ -13,6 +13,7 @@ if (!place_meeting(x, y+1, Solid)){
 	if (jump_release && vspd < -4){
 		vspd = -4;
 	}
+
 } else {
 	vspd = 0;
 	

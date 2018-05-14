@@ -1,14 +1,14 @@
 {
-    "id": "9c9fdc83-13c3-4cf1-ae33-22da67f3286c",
+    "id": "449b6833-365b-4a19-b95b-d3037ccc01ca",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Solid",
+    "name": "Supersolid",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "449b6833-365b-4a19-b95b-d3037ccc01ca",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "86477454-4d29-4dcb-bda2-76055c7f8f09",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

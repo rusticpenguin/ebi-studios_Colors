@@ -1,6 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-dir = -1;
-movespeed = 3;
-hspd = 0;
+
+if (other.y > y)
+{
+	other.y += 2;
+	other.vspd *= -1;
+}
+else
+{
+
+other.y = y;
+}
+
