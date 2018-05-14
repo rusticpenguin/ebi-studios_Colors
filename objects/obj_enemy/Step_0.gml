@@ -35,5 +35,5 @@ if (place_meeting(x,y,obj_player))
 		//with (obj_player) vsp = -jumpspeed;
 		//instance_destroy();
 	//}
-	game_restart();
+	 scr_death();
 }
