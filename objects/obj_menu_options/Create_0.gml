@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-menu[0] = "Start";
-menu[1] = "Options";
-menu[2] = "Quit";
+menu[0] = "Fullscreen";
+menu[1] = "Credits";
+menu[2] = "Back";
 
-space = 48;
+space = 64;
 mpos = 0;
